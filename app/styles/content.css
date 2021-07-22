@@ -1,26 +1,26 @@
-.it-MdContent h1 {
+.allWrapper .it-MdContent h1 {
   color: #c35c5c;
-  /*border-bottom-color: #ff7878 !important;*/
+  border-bottom-color: #c35c5c;
 }
 
-.it-MdContent h2 {
+.allWrapper .it-MdContent h2 {
   color: #bf905d;
-  /*border-bottom-color: #ffa540 !important;*/
+  border-bottom-color: #bf905d;
 }
 
-.it-MdContent h3 {
+.allWrapper .it-MdContent h3 {
   color: #9b9b4c;
 }
 
-.it-MdContent h4 {
+.allWrapper .it-MdContent h4 {
   color: #4a944a;
 }
 
-.it-MdContent h5 {
+.allWrapper .it-MdContent h5 {
   color: #468a8a;
 }
 
-.it-MdContent h6 {
+.allWrapper .it-MdContent h6 {
   color: #6464a5;
 }
 
