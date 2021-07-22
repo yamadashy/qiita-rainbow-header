@@ -31,12 +31,7 @@
     "url": "https://github.com/yamadashy/qiita-rainbow-header/issues"
   },
   "dependencies": {
-    "core-js": "3.8.1",
-    "eventemitter3": "4.0.7",
-    "fsevents": "^2.2.1",
-    "jquery": "3.5.1",
-    "loglevel": "^1.7.1",
-    "requestidlecallback-polyfill": "1.0.2"
+    "core-js": "3.8.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.11.6",
@@ -50,7 +45,6 @@
     "@types/core-js": "2.5.4",
     "@types/eslint": "^7.2.3",
     "@types/eslint-plugin-prettier": "^3.1.0",
-    "@types/jquery": "^3.5.2",
     "@types/prettier": "^2.1.1",
     "@types/webpack-bundle-analyzer": "^3.8.0",
     "@typescript-eslint/eslint-plugin": "^4.4.0",
@@ -71,8 +65,5 @@
   "engines": {
     "node": ">=10",
     "yarn": "^1.18.0"
-  },
-  "resolutions": {
-    "**/**/fsevents": "^1.2.9"
   }
 }
