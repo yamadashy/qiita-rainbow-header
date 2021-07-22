@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Qiita Rainbow Header"
+  },
+  "appShortName": {
+    "message": "qiita-rainbow-header"
+  },
+  "appDescription": {
+    "message": "Qiitaのヘッダーの色を虹色にします"
+  }
+}

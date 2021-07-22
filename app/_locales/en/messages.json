@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Qiita Rainbow Header"
+  },
+  "appShortName": {
+    "message": "qiita-rainbow-header"
+  },
+  "appDescription": {
+    "message": "A simple extension to make headers more readable"
+  }
+}

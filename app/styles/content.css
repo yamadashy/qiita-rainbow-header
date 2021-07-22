@@ -1,0 +1,26 @@
+.it-MdContent h1 {
+  color: #ff7878;
+  /*border-bottom-color: #ff7878 !important;*/
+}
+
+.it-MdContent h2 {
+  color: #ffa540;
+  /*border-bottom-color: #ffa540 !important;*/
+}
+
+.it-MdContent h3 {
+  color: #c0c040;
+}
+
+.it-MdContent h4 {
+  color: #50a050;
+}
+
+.it-MdContent h5 {
+  color: #40a8a8;
+}
+
+.it-MdContent h6 {
+  color: #7878ff;
+}
+
