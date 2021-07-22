@@ -1,26 +1,26 @@
 .it-MdContent h1 {
-  color: #b35454;
+  color: #c35c5c;
   /*border-bottom-color: #ff7878 !important;*/
 }
 
 .it-MdContent h2 {
-  color: #b08455;
+  color: #bf905d;
   /*border-bottom-color: #ffa540 !important;*/
 }
 
 .it-MdContent h3 {
-  color: #868642;
+  color: #9b9b4c;
 }
 
 .it-MdContent h4 {
-  color: #326732;
+  color: #4a944a;
 }
 
 .it-MdContent h5 {
-  color: #3a7272;
+  color: #468a8a;
 }
 
 .it-MdContent h6 {
-  color: #505099;
+  color: #6464a5;
 }
 
