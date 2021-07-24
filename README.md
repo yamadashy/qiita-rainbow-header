@@ -1,5 +1,7 @@
 # Qiita Rainbow Header
 
+![](./promo/Screenshot_1280x800.png)
+
 ## Install
 
 Coming soon.
