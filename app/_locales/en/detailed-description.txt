@@ -1,0 +1,2 @@
+This extension does not send the user's data anywhere. It's also completely open source.
+https://github.com/yamadashy/qiita-rainbow-header

@@ -1,0 +1,2 @@
+この拡張はユーザーのデータをどこにも送信しません。また、完全にオープンソースです
+https://github.com/yamadashy/qiita-rainbow-header

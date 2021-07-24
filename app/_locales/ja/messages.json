@@ -6,6 +6,6 @@
     "message": "qiita-rainbow-header"
   },
   "appDescription": {
-    "message": "Qiitaのヘッダーの色を虹色にします"
+    "message": "Change the color of the Qiita article headers."
   }
 }
