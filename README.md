@@ -4,7 +4,10 @@
 
 ## Install
 
-Coming soon.
+- Chrome: [Qiita Rainbow Header - Chrome](https://chrome.google.com/webstore/detail/qiita-rainbow-header/nccgheinjagepglbgloplfiekhepeodb)
+- Firefox: [Qiita Rainbow Header – 🦊 Firefox](https://addons.mozilla.org/ja/firefox/addon/qiita-rainbow-header/)
+- Opera: [Qiita Rainbow Header extension - Opera add-ons](https://addons.opera.com/ja/extensions/details/qiita-rainbow-header/)
+- Edge: [Qiita Rainbow Header – Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/qiita-rainbow-header/ecmebkdhlpljelacipkajemapilfalpo)
 
 ## Supported Languages
 - `en` English
